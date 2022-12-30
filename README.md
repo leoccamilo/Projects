@@ -3,4 +3,4 @@
 #### - Data Manipulation
 #### - Data Visualization
 #### - Probability & Statistics 
-#### - Importing & Cleaning Data.
+#### - Importing & Cleaning Data
