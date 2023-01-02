@@ -1,15 +1,12 @@
-### During my Python journey, I've been practicing by doing exercises as well as some projects, on sites like DataCamp. This repository contains interesting projects where we can learn data manipulation and visualization techniques, data import and cleaning, probability and statistics.
-
+# The Android App Market on Google Play
+#### Datasets:
+#### - apps.csv
+#### - user_reviews.csv
 
 # Analyzing TV Data
-#### The purpose of this project is learn and understand some important Data Science topics using Python:
-#### - Data Manipulation
-#### - Data Visualization
-#### - Importing & Cleaning Data
+#### Datasets:
+#### - halftime_musicians.csv
+#### - super_bowls.csv
+#### - tv.csv
 
-# The Android App Market on Google Play
-#### The purpose of this project is learn and understand some important Data Science topics using Python:
-#### - Data Manipulation
-#### - Data Visualization
-#### - Probability & Statistics 
-#### - Importing & Cleaning Data
+
