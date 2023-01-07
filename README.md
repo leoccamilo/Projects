@@ -13,3 +13,11 @@
 #### - Data Visualization
 #### - Probability & Statistics 
 #### - Importing & Cleaning Data
+
+# Disney Movies and Box Office Success
+#### The purpose of this project is learn and understand some important Data Science topics using Python:
+#### - Data Manipulation
+#### - Data Visualization
+#### - Probability & Statistics 
+#### - Importing & Cleaning Data
+#### - Linear Regression Model to predict box office success
