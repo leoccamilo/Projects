@@ -2,20 +2,23 @@
 
 
 # Analyzing TV Data
-#### The purpose of this project is learn and understand some important Data Science topics using Python:
+#### Use data manipulation and visualization to explore one of two different television broadcast datasets: The Super Bowl and hit sitcom the Office!
+#### Main Topics:
 #### - Data Manipulation
 #### - Data Visualization
 #### - Importing & Cleaning Data
 
 # The Android App Market on Google Play
-#### The purpose of this project is learn and understand some important Data Science topics using Python:
+#### Load, clean, and visualize scraped Google Play Store data to gain insights into the Android app Market.
+#### Main Topics:
 #### - Data Manipulation
 #### - Data Visualization
 #### - Probability & Statistics 
 #### - Importing & Cleaning Data
 
 # Disney Movies and Box Office Success
-#### The purpose of this project is learn and understand some important Data Science topics using Python:
+#### Explore Disney movie data, then build a linear regression model to predict box office success.
+#### Main Topics:
 #### - Data Manipulation
 #### - Data Visualization
 #### - Probability & Statistics 
@@ -23,7 +26,17 @@
 #### - Linear Regression Model to predict box office success
 
 # Dr Semmelweis and the Discovery of Handwashing
-#### The purpose of this project is learn and understand some important Data Science topics using Python:
+#### Reanalyse the data behind one of the most important discoveries of modern medicine: handwashing.
+#### Main Topics:
+#### - Data Manipulation
+#### - Data Visualization
+#### - Probability & Statistics 
+#### - Importing & Cleaning Data
+#### - Case Studies
+
+# Predicting Credit Card Approvals
+#### Build a machine learning model to predict if a credit card application will get approved. 
+#### Main Topics:
 #### - Data Manipulation
 #### - Data Visualization
 #### - Probability & Statistics 
