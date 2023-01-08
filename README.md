@@ -1,4 +1,4 @@
-### During my Python journey, I've been practicing by doing exercises as well as some projects, on sites like DataCamp. This repository contains interesting projects where we can learn data manipulation and visualization techniques, data import and cleaning, probability and statistics.
+### During my Python journey, I've been practicing by doing exercises as well as some projects on sites like DataCamp. This repository contains interesting projects where we can learn data manipulation and visualization techniques, data import and cleaning, probability and statistics.
 
 
 # Analyzing TV Data
